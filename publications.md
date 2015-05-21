@@ -1,0 +1,13 @@
+<http://scholar.google.ca/scholar?q=%22MB+Routley%22&btnG=&hl=en&as_sdt=1%2C5>
+
+* Eckert, C.G., M.B. Routley, C. A. Muis Griffin, B. Ozimec, & C. Herlihy, 2009. Floral Morphology Mediates Temporal Variation in the Mating System of a Self-Compatible Plant, _Aquilegia canadensis_ (Ranunculaceae). Ecology 90: 1540--8.
+* Harder, L.D., S.A. Richards & M.B. Routley, 2007. Effects of reproductive compensation, gamete discounting and reproductive assurance on mating‐system diversity in hermaphrodites. Evolution 62: 157-172 [-pdf-](http://s3.amazonaws.com/mroutley_public/ReproductiveCompensation.pdf)
+* Harder, L.D. & M.B. Routley, 2006. Pollen and ovule fates and reproductive performance by flowering plants. Ecology and Evolution of Flowers. L.D. Harder and S.C.H. Barrett, eds. Oxford University Press
+* Routley, M.B. & B.C. Husband, 2006. Sexual interference within flowers of _Chamerion angustifolium_. Evol. Ecol. 20: 331--343 [-pdf-](http://s3.amazonaws.com/mroutley_public/SegregationInterference.pdf)
+* Routley, M.B. & B.C. Husband, 2005. Responses to selection on male-phase duration in _Chamerion angustifolium_. J. Evol. Biol. 18: 1050--1059 [-pdf-](http://s3.amazonaws.com/mroutley_public/protandryHeritability.pdf)
+* Sage, T.L., B.C. Husband & M.B. Routley, 2005. Plant breeding systems and pollen dispersal. In: Practical Pollination Biology. A. Daphni, P.G. Kevan & B.C. Husband, eds. Enviroquest Ltd., Cambridge, Ontario, Canada
+* Routley, M.B., P. Kron & B.C. Husband, 2004. The consequences of clone size for paternal and maternal success in domestic apple (_Malus x domestica_). Am. J. Bot. 91: 1326--1332 [-pdf-](http://s3.amazonaws.com/mroutley_public/AppleCloneSize.pdf)
+* Harder, L.D., C.Y. Jordan, W.E. Gross & M.B. Routley, 2004. Beyond floricentrism: the pollination function of inflorescences. Plant Species Biol. 19: 137--148 [-pdf-](http://s3.amazonaws.com/mroutley_public/Floricentrism.pdf)
+* Routley, M.B., R.I. Bertin & B.C. Husband, 2004. Correlated evolution of dichogamy and self-incompatibility: a phylogenetic perspective. Int. J. Plant Sci. 165: 983--993 [-pdf-](http://s3.amazonaws.com/mroutley_public/SIandDichogamy.pdf)
+* Routley, M.B. & B.C. Husband, 2003. The effect of protandry on siring success in _Chamerion angustifolium_ (Onagraceae) with different inflorescence sizes. Evolution 57: 240--248 [-pdf-](http://s3.amazonaws.com/mroutley_public/ProtandryDiscounting.pdf)
+* Routley, M.B., K. Mavraganis & C.G. Eckert, 1999. Effect of population size on the mating system in a self-compatible, autogamous plant, _Aquilegia canadensis_ (Ranunculaceae). Heredity 82: 518--528 [-pdf-](http://s3.amazonaws.com/mroutley_public/PopulationSizeT.pdf)
